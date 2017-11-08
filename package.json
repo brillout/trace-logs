@@ -1,6 +1,6 @@
 {
-  "name": "log-trace",
-  "version": "0.1.0",
+  "name": "@atto/track-logs",
+  "version": "0.1.2",
   "description": "Trace console.logS in Node.js to know from which file they come from",
-  "repository": "github:brillout/log-trace"
+  "repository": "github:brillout/track-logs"
 }
