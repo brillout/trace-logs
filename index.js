@@ -1,6 +1,6 @@
-module.exports = trackLogs;
+module.exports = traceLogs;
 
-function trackLogs(opts) {
+function traceLogs(opts) {
     ['log', 'warn'].forEach(function(method) {
         const originalFn = console[method];
         console[method] = function() {
