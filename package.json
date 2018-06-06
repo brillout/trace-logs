@@ -2,8 +2,8 @@
   "name": "@brillout/trace-logs",
   "version": "0.1.3",
   "description": "Trace console.logS in Node.js to know from which file they come from",
+  "repository": "github:brillout/trace-logs",
   "publishConfig": {
       "access": "public"
-  },
-  "repository": "github:brillout/trace-logs"
+  }
 }
